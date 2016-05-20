@@ -1,7 +1,7 @@
 # GameOfLife
 ##The following things can be configured for this game:
 
-Width / Height of window.
+Width / Height of window. When the game is launched this cannot be changed.
 
 Number of columns and rows of cells.
 
