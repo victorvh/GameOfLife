@@ -86,7 +86,7 @@ namespace GameOfLife
             int cellX = (int)(xCoord / CellWidth);
             int cellY = (int)(yCoord / CellHeight);
 
-            GameSimulation.CellGrid[cellY, cellX].Revive();
+            GameSimulation.CellGrid[cellY, cellX].ReviveNow();
 
             PaintCell(true, cellX, cellY);
             GForm.DrawImage(Bitmap, 0, 0);

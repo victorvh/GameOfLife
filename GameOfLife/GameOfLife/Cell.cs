@@ -26,6 +26,13 @@ namespace GameOfLife
             _willBeAlive = true;
         }
 
+        // Used for the placement of cells with rightclick
+        public void ReviveNow()
+        {
+            _willBeAlive = true;
+            IsAlive = true;
+        }
+
         public void UpdateAliveStatus()
         {
             IsAlive = _willBeAlive;
