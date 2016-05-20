@@ -1,0 +1,9 @@
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.Cache
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+c:\users\victo\documents\visual studio 2015\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.GameRenderer.resources
