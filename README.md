@@ -9,7 +9,7 @@ The speed of the autorun function.
 
 The color of living and dead cells.
 
-Configurations for the game can be made at the top of the Gamerenderer.cs file.
+Configurations for the game can be made at the top of the GameRenderer.cs file.
 
 ##Controls of the game:
 Left click: run one cycle.
